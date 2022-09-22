@@ -1,4 +1,4 @@
-# MLOps project prospects
+# Machine Learning Projects
 
 ## About this repository
 This repository contains some basic Machine Learning projects done for testing purposes of different frameworks and tools.
